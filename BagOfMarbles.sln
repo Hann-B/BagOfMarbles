@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagOfMarbles", "BagOfMarbles\BagOfMarbles.csproj", "{5E304068-1804-4665-A4DD-C0FC3ADF3FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E304068-1804-4665-A4DD-C0FC3ADF3FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E304068-1804-4665-A4DD-C0FC3ADF3FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E304068-1804-4665-A4DD-C0FC3ADF3FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E304068-1804-4665-A4DD-C0FC3ADF3FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
